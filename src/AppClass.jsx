@@ -1,8 +1,12 @@
 import { Component } from "react";
 import "./App.css"
-import elephant from "./images/elephant.jpeg";
 
 export default class AppClass extends Component{
+
+  // constructor(props){
+  //   super()
+  //   this.data = props.props
+  // }
   // code here
   render(){
     this.data = this.props.props
