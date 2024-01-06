@@ -1,0 +1,20 @@
+/* add your styles here */
+.heading{
+    font-size: 35px;
+    font-weight: 800;
+    text-align: center;
+    margin: 50px;
+}
+.container{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin: 10px;
+    
+}
+.image{
+    width: 500px;
+    height: 500px;
+}
